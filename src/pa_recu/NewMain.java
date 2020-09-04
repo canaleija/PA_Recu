@@ -9,13 +9,13 @@ package pa_recu;
  *
  * @author betoleija
  */
-public class PA_Recu {
+public class NewMain {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-          System.out.println("Hola Mundo 1!!");
+        System.out.println("Hola Mundo New Main!!");
     }
     
 }
