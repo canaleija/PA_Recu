@@ -5,11 +5,29 @@
  */
 package objetos;
 
+import java.awt.Color;
+
+
+
+
 /**
  * "contexto" ( ¿Dónde?) nos ayuda a diferenciar algunas identidades (variables)
  * @author betoleija
  */
 public class Celular {
-  
-   
-}
+    
+    // definir los atributos global (caractersiticas que describen al Celular)
+    double costo;
+    Color color;
+    String modelo;
+    String marca;
+    Dimension dimensiones;
+    Procesador procesador;
+    int bateria;
+    int ram;
+    int rom;
+    int n_cam;
+    String otros;
+    
+    // todo: depuración de codigo en java (netbeans)
+    }
