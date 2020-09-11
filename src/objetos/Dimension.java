@@ -11,10 +11,16 @@ package objetos;
  */
 public class Dimension {
     
-    double ancho;
-    double largo;
-    double profundidad;
-    double peso;  
-    
-    
+    private double ancho;
+    private double largo;
+    private double profundidad;
+    private double peso; 
+   
+    public void setAncho (double ancho){
+        this.ancho = ancho;
+    }
+    public double getAncho (){
+        return this.ancho;
+    }
+    // encapsulamiento completo de esta clases y el resto
 }

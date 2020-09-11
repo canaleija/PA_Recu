@@ -28,6 +28,6 @@ public class Celular {
     int rom;
     int n_cam;
     String otros;
+
     
-    // todo: depuración de codigo en java (netbeans)
     }

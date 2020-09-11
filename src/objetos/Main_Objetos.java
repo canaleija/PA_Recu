@@ -3,21 +3,21 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pa_recu;
+package objetos;
 
 /**
  *
  * @author betoleija
  */
-public class NewMain {
+public class Main_Objetos {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        Dimension d1 = new Dimension();
        
+      
     }
-    
-       
     
 }
