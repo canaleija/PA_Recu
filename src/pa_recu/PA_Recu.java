@@ -17,15 +17,7 @@ public class PA_Recu {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-          // mandar argumentos
-          Dimension d1 = new Dimension();
-          Dimension d2 = new Dimension();
-          System.out.println(d2.getAncho());
-          d2.setAncho(5.6);
-          System.out.println(d2.getAncho());
-           
-        
+      
     }
     
 }
